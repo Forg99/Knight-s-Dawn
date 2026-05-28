@@ -26,13 +26,17 @@ Space — Jump
 Shift — Run
 
 
+
+
+
+https://github.com/user-attachments/assets/67206f39-e823-44fd-b7e7-1f12ab577227
+
+
 Download can be found at: 
 
 https://forg99.itch.io/knigths-dawn
 
 
-
-https://github.com/user-attachments/assets/67206f39-e823-44fd-b7e7-1f12ab577227
 
 credit for assets used:
 
