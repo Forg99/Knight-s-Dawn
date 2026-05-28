@@ -31,10 +31,12 @@ https://github.com/user-attachments/assets/67206f39-e823-44fd-b7e7-1f12ab577227
 credit for assets used:
 
 sprites:
+
 https://i-am-44.itch.io/free-1-bit-dungeon-tileset 
 
 https://lazy-fox.itch.io/1-bit-8x8-universal-asset
 
 music:
+
 https://xdeviruchi.itch.io/
 
