@@ -8,12 +8,14 @@ You play as a knight trapped in a dungeon, navigating dangerous terrain, collect
 
 ## Features
 
-* Hazardous obstacles such as spikes and moving buzzsaws
+* Hazardous obstacles such as spikes and buzzsaws
 * Skeleton enemies that patrol each stage
 * Collectable coins scattered throughout the dungeon
+* One-time double jump power-up 
 * Keys required to unlock doors to the next stage
 * Epic background music and immersive sound effects
 * Fast-paced precision platforming gameplay
+  
 
 ## Objective
 
