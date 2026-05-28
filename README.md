@@ -1,27 +1,31 @@
-# Knight-s-Dawn
-Final School Project
+# Knigth's dawn
 
-This project is a 2D platformer inspired by games such as Super Meat Boy and other precision-based platformers.
+This project is a 2D platformer inspired by *Super Meat Boy* and other precision-based platformers.
 
-Concept
+## Concept
 
-You play as a knight trapped in a dungeon, navigating hazardous terrain, collecting coins, and searching for a way to escape.
+You play as a knight trapped in a dungeon, navigating dangerous terrain, collecting coins, and searching for a way to escape.
 
+## Features
 
+* Hazardous obstacles such as spikes and moving buzzsaws
+* Skeleton enemies that patrol each stage
+* Collectable coins scattered throughout the dungeon
+* Keys required to unlock doors to the next stage
+* Epic background music and immersive sound effects
+* Fast-paced precision platforming gameplay
 
-Objective
+## Objective
 
 Players must explore each stage to find keys that unlock doors leading to the next level. The goal is to complete the game while collecting as many coins as possible and dying as few times as possible.
 
 When the player dies, they respawn at the beginning of the current stage.
 
+## Controls
 
-
-Controls
-
-A / D — Move left and right
-
-Space — Jump
+* **A / D** — Move left and right
+* **Space** — Jump
+* **Shift** — Run
 
 Shift — Run
 
