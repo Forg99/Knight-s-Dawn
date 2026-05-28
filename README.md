@@ -17,7 +17,9 @@ When the player dies, they respawn at the beginning of the current stage.
 
 Controls
 A / D — Move left and right
+
 Space — Jump
+
 Shift — Run
 
 
